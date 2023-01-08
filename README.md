@@ -1,4 +1,4 @@
-# Dentistimo _(where beautiful smiles begin)_
+# Dentistimo _(School Project)_
 <img src="app.gif" width="400" height="300"/>
 
 ![page](./Screenshot1.png)
